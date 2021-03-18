@@ -54,6 +54,7 @@ public class JoinView extends JFrame{
 	
 	public static void main(String[] args) {
 		new JoinView();
+		System.out.println("이거 보이니?");
 	}
 
 }
